@@ -77,7 +77,7 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/YOUR-USER/SubtaskListDate';
+        return 'https://github.com/nilsemann/SubtaskListDate';
     }
 
     public function getCompatibleVersion()
